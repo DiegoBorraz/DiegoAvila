@@ -6,7 +6,6 @@
 - 💻 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Formação em **Analise e Desenvolvimento de Sistemas** pela <a href="https://www.senacrs.com.br/unidade/78">Faculdade de Tecnologia Senac Pelotas</a>.
 - 👨‍💻 Aperfeiçoando meus conhecimentos na <a href="https://www.origamid.com/">Origamid</a>, <a href="https://fullcycle.com.br/">Full Cycle</a>, <a href="https://www.alura.com.br/">Alura</a>, <a href="https://www.rocketseat.com.br/">Rocketseat</a>.
-- 💼 Atualmente a procura de Trabalho.
 
 ## 🚀 Minhas Skills
 
