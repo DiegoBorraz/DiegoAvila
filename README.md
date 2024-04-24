@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" margin="250px" min-width="400px" max-width="400px" width="400px" align="right" >
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador"  min-width="400px" max-width="400px" width="400px" align="right" >
 <h2> Olá, meu nome é <strong>Diego Avila!</strong></h2>
 <h3> 💻 Desenvolvedor Java e ReactJs desde 2017.</h3>
 <br>
