@@ -1,18 +1,8 @@
 ## Seja bem-vindo!
 <img href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?pause=1000&random=false&width=435&lines=💻+Desenvolvedor+Java+e+ReactJs." alt="Typing SVG"/>
  <p>Me chamo <b>Diego Avila</b>, Desenvolvedor de Software apaixonado por tecnologia, jogos e inovação.</p>
- <p>Apaixonado por tecnologia desde 2017, iniciei minha jornada na área de desenvolvimento de software na UNISENAC Pelotas. Ao longo da minha carreira, tive a oportunidade de trabalhar em diversos projetos desafiadores e gratificantes, sempre utilizando os princípios do <b>SOLID e da Clean Architecture</b>, que me permitiram aprimorar minhas habilidades e entregar soluções robustas e escaláveis.</p>
+ <p>Apaixonado por tecnologia desde 2017, iniciei minha jornada na área de Analise e Desenvolvimento de Sistemas na UNISENAC Pelotas. Ao longo da minha carreira, tive a oportunidade de trabalhar em diversos projetos desafiadores e gratificantes, sempre utilizando os princípios do <b>SOLID e da Clean Architecture</b>, que me permitiram aprimorar minhas habilidades e entregar soluções robustas e escaláveis.</p>
  <p><b>Minha experiência com Java e ReactJs</b> me proporcionou a oportunidade de trabalhar em projetos de diferentes portes e complexidades, desde startups até grandes empresas.</p>
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador"  min-width="400px" max-width="400px" width="400px" align="right" >
-
-<br>
-
-
-<a href="https://github.com/DiegoBorraz" title="ilustração do mapeamento de linguagens">
-  <img height="300em"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoBorraz&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
-  <img height="200em"  src="https://github-readme-stats.vercel.app/api?username=DiegoBorraz&show_icons=true&theme=dracula&include_all_commits=true"/>
-</a>
 
 ## 🛠️ Minhas Skills
 
@@ -21,11 +11,11 @@
     <img src="https://skillicons.dev/icons?i=java,react,nodejs,spring,docker,unreal,postgres" />
   </a>
 </p>
-
-
-
-
 <br>
+
+<div>
+  <img height="300em"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoBorraz&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de   programação no perfil"/>
+</div>
 
 ### 📱 Minhas redes:
 
@@ -33,3 +23,8 @@
   <a href="https://www.linkedin.com/in/diego-avila-91725b192" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=/" alt="LinkedIn"/></a>
 </p>
+
+### E pode aproveitar pra ver alguns conteúdos que eu criei:
+- <a href="https://github.com/DiegoBorraz/login-spring-security/blob/master/README.md">
+  <img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"> Login com Spring Security  
+  </a>
