@@ -26,10 +26,10 @@
 </p>
 
 ### E pode aproveitar pra ver alguns conteúdos que eu criei:
-- <a href="https://github.com/DiegoBorraz/login-spring-security/blob/master/README.md">
-  <img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"> Login com Spring Security  
+* <a href="https://github.com/DiegoBorraz/login-spring-security/blob/master/README.md">
+   <img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"> Login com Spring Security  
   </a>
-  - <a href="https://github.com/DiegoBorraz/arquitetura-camadas/blob/master/README.md">
-  <img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"> Arquitetura em camadas(Layered Architecture)
   
+* <a href="https://github.com/DiegoBorraz/arquitetura-camadas/blob/master/README.md">
+   <img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"> Arquitetura em camadas(Layered Architecture)
   </a>
