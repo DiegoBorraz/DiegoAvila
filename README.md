@@ -1,8 +1,8 @@
 ## Seja bem-vindo!
 <img href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?pause=1000&random=false&width=435&lines=💻+Desenvolvedor+Java+e+ReactJs." alt="Typing SVG"/>
  <p>Me chamo <b>Diego Avila</b>, Desenvolvedor de Software a mais de 5 anos.</p>
- <p>Apaixonado por tecnologia desde 2017, iniciei minha jornada na área de Analise e Desenvolvimento de Sistemas na UNISENAC Pelotas. Desenvolvo sistemas backend em Java com spring, front end com Javascript, ReactJs, NextJs... Alguns bancos de dados como PostgreSql, Oracle, Sql Server. Sempre busquei utilizar as melhores práticas como os princípios do <b>SOLID e da Clean Architecture</b>, que me permitiram aprimorar minhas habilidades e entregar soluções robustas e escaláveis.</p>
- <p><b>Minha experiência com Java e ReactJs, metodologias ágeis me proporcionaram a oportunidade de trabalhar em projetos de diferentes portes e complexidades, desde startups até grandes empresas.</p>
+ <p>Apaixonado por tecnologia desde 2017, iniciei minha jornada na área de Analise e Desenvolvimento de Sistemas na UNISENAC Pelotas. Desenvolvo sistemas backend em Java com spring, front end com Typescript, ReactJs, NextJs... Alguns bancos de dados como PostgreSql, Oracle, Sql Server. Sempre busquei utilizar as melhores práticas como os princípios do <b>SOLID e da Clean Architecture</b>, que me permitiram aprimorar minhas habilidades e entregar soluções robustas e escaláveis.</p>
+ <p><b>Minha experiência com Java, ReactJs e metodologias ágeis me proporcionaram a oportunidade de trabalhar em projetos de diferentes portes e complexidades, desde startups até grandes empresas.</p>
 
 
 ## 🛠️ Minhas Skills
